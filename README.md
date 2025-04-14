@@ -1,6 +1,6 @@
 # Test Node App - Dockerized
 
-# This is a simple Node.js app that has been containerized using Docker.
+# This is a simple React app that has been containerized using Docker.
 
 # Explaining Docker file
 
